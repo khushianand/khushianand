@@ -21,10 +21,7 @@
 - ⚡ **Fun fact** I think I'm funny, cute, pretty and smart😼<br>
 
 <hr>
-
-
 <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="70px">
-<br>
 <h3 align="left">Let's Connect...</h3>
 
 
