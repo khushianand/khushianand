@@ -1,3 +1,4 @@
+![](https://github.com/khushianand/Readme.md/blob/main/KHUSHI%20ANAND.png)
 <h1 align="center">Hi 👋, I'm Khushi Anand</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
