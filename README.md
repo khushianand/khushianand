@@ -91,7 +91,7 @@
 </a>
 
 <a href="https://www.w3schools.com/mongodb/" target="_blank" rel="noreferrer"> 
-<img src=" https://github.com/tabler/tabler-icons/blob/main/.github/packages/og-package-angular.png" width="40" height="40"/>&nbsp;&nbsp; 
+<img src=".github/packages/og-package-angular.png" width="40" height="40"/>&nbsp;&nbsp; 
 </a>
 
 
