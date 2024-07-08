@@ -82,6 +82,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;&nbsp; 
 </a> 
 
+<a href="https://www.w3schools.com/angular/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/angular.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp; 
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nextdotjs.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp; 
+</a>
+
+
 </div>
 
 </p>
