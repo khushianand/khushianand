@@ -95,6 +95,8 @@
 </a>
 
 
+
+
 </div>
 
 </p>
@@ -127,6 +129,11 @@
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;&nbsp;
 </a> 
+
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>&nbsp;&nbsp;
+</a>
 
 
 </div>
