@@ -83,7 +83,7 @@
 </a> 
 
 <a href="https://www.w3schools.com/angular/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/angular.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp; 
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
@@ -91,7 +91,7 @@
 </a>
 
 <a href="https://www.w3schools.com/mongodb/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/mongodb.svg" width="40" height="40"/>&nbsp;&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;&nbsp; 
 </a>
 
 
