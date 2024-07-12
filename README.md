@@ -143,3 +143,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushianand&show_icons=true&locale=en&layout=compact" alt="khushianand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushianand&" alt="khushianand" /></p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
