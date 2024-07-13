@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Khushi Anand</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
@@ -12,7 +12,7 @@
 
 - 🌱 **I’m currently learning** MERN Stack<br>
 
-- 💬 **Ask me about** react, Web Development, UI designing, and competitive coding.<br>
+- 💬 **Ask me about** React, Web Development, UI designing, and competitive coding.<br>
 
 - 📫 **How to reach me** anandkhushi0911@gmail.com<br>
 
