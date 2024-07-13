@@ -12,7 +12,7 @@
 
 - 🌱 **I’m currently learning** MERN Stack<br>
 
-- 💬 **Ask me about** react, UI designing, and competitive coding.<br>
+- 💬 **Ask me about** react, Web Development, UI designing, and competitive coding.<br>
 
 - 📫 **How to reach me** anandkhushi0911@gmail.com<br>
 
