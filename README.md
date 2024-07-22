@@ -20,7 +20,18 @@
 
 - ⚡ **Fun fact** I think I'm funny, cute, pretty, beautiful and smart😼<br>
 
+
 <hr>
+<p>
+I'm Khushi Anand, a B.Tech IT student at KIET Group of Institutions with a passion for full-stack development, digital illustrations, and coding. I have developed a portfolio website using React, Node.js, and many other projects
+
+I hold certifications from Honeywell & Palo Alto, IBM, Coursera, and AWS. An out-of-the-box thinker, much interested in real-life problem-solving and related fields.
+
+Besides academics as the Fashion Head of the Pragmatic Fashion Society, I led design initiatives and excelled in competitions.
+
+I am actively seeking opportunities. Let's connect and create something Impactful! Reach me out via email or LinkedIn. 🚀
+</p>
+
 <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="70px">
 <h3 align="left">Let's Connect...</h3>
 
