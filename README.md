@@ -8,17 +8,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushianand&label=Profile%20views&color=0e75b6&style=flat" alt="khushianand" /> </p>
 
-- 🔭 **I’m currently working on** E-commerce Website<br>
+- 🔭 **I’m currently working on** Angular18 Website<br>
 
-- 🌱 **I’m currently learning** MERN Stack<br>
+- 🌱 **I’m currently growing my knowledge in** Full-stack Web Development<br>
 
 - 💬 **Ask me about** React, Web Development, UI designing, and competitive coding.<br>
 
 - 📫 **How to reach me** anandkhushi0911@gmail.com<br>
 
-- 📄 **Know about my experiences** [https://www.linkedin.com/in/khushi-anand-b2a207212/overlay/1715849127723/single-media-viewer/?profileId=ACoAADXHrZIBd1mcbLAqkF_PKSBTIoGXQoaB4uA](https://www.linkedin.com/in/khushi-anand-b2a207212/overlay/1715849127723/single-media-viewer/?profileId=ACoAADXHrZIBd1mcbLAqkF_PKSBTIoGXQoaB4uA)
+- 📄 **Know about my experiences** [My LinkedIn](https://www.linkedin.com/in/khushianand091101/)
 
-- ⚡ **Fun fact** I think I'm funny, cute, pretty and smart😼<br>
+- ⚡ **Fun fact** I think I'm funny, cute, pretty, beautiful and smart😼<br>
 
 <hr>
 <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="70px">
