@@ -23,9 +23,9 @@
 
 <hr>
 <p>
-<h2>
+<h1>
 I'm Khushi Anand, a B.Tech IT student at KIET Group of Institutions with a passion for full-stack development, digital illustrations, and coding. I have developed a portfolio website using React, Node.js, and many other projects.
-</h2>
+</h1>
 <h2>
 I'm a passionate Full-stack Web Developer actively working upon growing my knowledge and improve my skills, always giving my 110% efforts in every work field.
 </h2>
