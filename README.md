@@ -10,6 +10,8 @@
 
 - 🔭 **I’m currently working on** Angular18 Website<br>
 
+- 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!<br>
+
 - 🌱 **I’m currently growing my knowledge in** Full-stack Web Development<br>
 
 - 💬 **Ask me about** React, Web Development, UI designing, and competitive coding.<br>
