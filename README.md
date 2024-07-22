@@ -138,7 +138,9 @@ I am actively seeking opportunities. Let's connect and create something Impactfu
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>&nbsp;&nbsp; 
 </a> 
  
- 
+<a href="https://vercel.com/docs" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="40" height="40"/>&nbsp;&nbsp; 
+</a>  
 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="github" width="40" height="40" />&nbsp;&nbsp;
