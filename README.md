@@ -34,7 +34,7 @@
 
 ---
 
-<img align="right" alt="coding" width="370" src="https://github.com/khushianand/khushianand/blob/codex/update-github-profile-readme.md-for-professionalism-333j8s/54f737502df8f8f7333ac3a073a392c3.jpg">
+<img align="right" alt="coding" width="370" src="git_image.jpg">
 
 ## 🚀 Professional Snapshot
 
