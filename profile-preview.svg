@@ -1,0 +1,344 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="2600" viewBox="0 0 1200 2600">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#312783"/><stop offset=".55" stop-color="#6c4ce8"/><stop offset="1" stop-color="#3c2b91"/></linearGradient><radialGradient id="glow" cx="50%" cy="25%" r="70%"><stop stop-color="#f1edff"/><stop offset="1" stop-color="#ffffff"/></radialGradient><filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#4f35c9" flood-opacity=".10"/></filter></defs>
+<rect width="1200" height="2600" fill="url(#glow)"/>
+<rect x="18" y="18" width="1164" height="440" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<g filter="url(#shadow)">
+<text x="58" y="85" font-family="Segoe Script,Comic Sans MS,cursive" font-size="32" font-weight="500" fill="#6c4ce8" text-anchor="start">Hi there! 👋 I&#x27;m</text>
+<text x="58" y="165" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="78" font-weight="900" fill="#101a4a" text-anchor="start">KHUSHI</text>
+<text x="350" y="165" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="78" font-weight="900" fill="#6c4ce8" text-anchor="start">ANAND</text>
+<text x="58" y="220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" fill="#111a4e" text-anchor="start">✪ Cyber Security Enthusiast  |  ✪ Full Stack Developer  |  ✪ Automation Lover</text>
+<text x="58" y="270" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="500" fill="#111a4e" text-anchor="start">I build secure, scalable and user-friendly applications and automate</text>
+<text x="58" y="298" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="500" fill="#111a4e" text-anchor="start">security workflows to make the digital world safer and smarter.</text>
+<rect x="58" y="330" width="270" height="44" rx="10" fill="white" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="76" y="361" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">✉️</text>
+<text x="113" y="361" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#111a4e" text-anchor="start">anandkhushi0911@gmail.com</text>
+<rect x="355" y="330" width="245" height="44" rx="10" fill="white" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="373" y="361" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">in</text>
+<text x="410" y="361" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#111a4e" text-anchor="start">khushi-anand-b2a207212</text>
+<rect x="625" y="330" width="210" height="44" rx="10" fill="white" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="643" y="361" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">📸</text>
+<text x="680" y="361" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#111a4e" text-anchor="start">khushi.i091101</text>
+<rect x="58" y="390" width="285" height="44" rx="10" fill="white" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="76" y="421" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">⌁</text>
+<text x="113" y="421" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#111a4e" text-anchor="start">leetcode.com/khushianand0911</text>
+<rect x="375" y="390" width="235" height="44" rx="10" fill="white" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="393" y="421" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">▲</text>
+<text x="430" y="421" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#111a4e" text-anchor="start">khushianand.vercel.app</text>
+<circle cx="1035" cy="170" r="100" fill="#e8e1ff"/>
+<rect x="740" y="88" width="300" height="210" rx="12" fill="#151d4f" stroke="#dcd6ff" stroke-width="4"/>
+<rect x="762" y="112" width="257" height="150" rx="4" fill="#0b1438" stroke="#0b1438" stroke-width="1.2"/>
+<rect x="790" y="135" width="30" height="4" rx="2" fill="#6ae3ff"/>
+<rect x="850" y="135" width="120" height="4" rx="2" fill="#6ae3ff" opacity=".8"/>
+<rect x="790" y="154" width="42" height="4" rx="2" fill="#8d6cff"/>
+<rect x="850" y="154" width="112" height="4" rx="2" fill="#8d6cff" opacity=".8"/>
+<rect x="790" y="173" width="54" height="4" rx="2" fill="#72e090"/>
+<rect x="850" y="173" width="104" height="4" rx="2" fill="#72e090" opacity=".8"/>
+<rect x="790" y="192" width="66" height="4" rx="2" fill="#ff7ca8"/>
+<rect x="850" y="192" width="96" height="4" rx="2" fill="#ff7ca8" opacity=".8"/>
+<rect x="790" y="211" width="78" height="4" rx="2" fill="#ffc66d"/>
+<rect x="850" y="211" width="88" height="4" rx="2" fill="#ffc66d" opacity=".8"/>
+<rect x="790" y="230" width="90" height="4" rx="2" fill="#8d6cff"/>
+<rect x="850" y="230" width="80" height="4" rx="2" fill="#8d6cff" opacity=".8"/>
+<rect x="790" y="249" width="102" height="4" rx="2" fill="#6ae3ff"/>
+<rect x="850" y="249" width="72" height="4" rx="2" fill="#6ae3ff" opacity=".8"/>
+<path d="M905 175 L965 150 L1025 175 L1025 245 Q965 275 905 245 Z" fill="#fff" opacity=".95"/><path d="M925 185 L965 168 L1005 185 L1005 233 Q965 255 925 233 Z" fill="#6c4ce8"/><rect x="951" y="207" width="28" height="28" rx="5" fill="#fff"/><path d="M957 207 v-11 a8 8 0 0 1 16 0 v11" fill="none" stroke="#fff" stroke-width="6"/>
+<rect x="728" y="296" width="330" height="18" rx="6" fill="#23284f" stroke="#23284f" stroke-width="1.2"/>
+<text x="1080" y="294" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="78" font-weight="400" fill="#111a4e" text-anchor="start">🌿</text>
+</g>
+<rect x="18" y="475" width="274" height="118" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<rect x="54" y="502" width="70" height="66" rx="12" fill="#f1edff" stroke="#ded8fb" stroke-width="0"/>
+<text x="89" y="548" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="800" fill="#6c4ce8" text-anchor="middle">▥</text>
+<text x="153" y="525" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="900" fill="#111a4e" text-anchor="start">250+</text>
+<text x="153" y="560" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#111a4e" text-anchor="start">Contributions</text>
+<rect x="311" y="475" width="274" height="118" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<rect x="347" y="502" width="70" height="66" rx="12" fill="#f1edff" stroke="#ded8fb" stroke-width="0"/>
+<text x="382" y="548" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="800" fill="#6c4ce8" text-anchor="middle">▱</text>
+<text x="446" y="525" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="900" fill="#111a4e" text-anchor="start">15+</text>
+<text x="446" y="560" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#111a4e" text-anchor="start">Repositories</text>
+<rect x="604" y="475" width="274" height="118" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<rect x="640" y="502" width="70" height="66" rx="12" fill="#f1edff" stroke="#ded8fb" stroke-width="0"/>
+<text x="675" y="548" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="800" fill="#6c4ce8" text-anchor="middle">&lt;/&gt;</text>
+<text x="739" y="525" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="900" fill="#111a4e" text-anchor="start">5+</text>
+<text x="739" y="560" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#111a4e" text-anchor="start">Projects</text>
+<rect x="897" y="475" width="274" height="118" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="933" y="525" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="900" fill="#6c4ce8" text-anchor="start">“</text>
+<text x="975" y="522" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#111a4e" text-anchor="start">Always learning,</text>
+<text x="975" y="545" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#111a4e" text-anchor="start">always building,</text>
+<text x="975" y="568" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#111a4e" text-anchor="start">always securing.</text>
+<text x="1117" y="555" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="400" fill="#111a4e" text-anchor="start">💜</text>
+<rect x="18" y="614" width="660" height="635" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="55" y="665" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#6c4ce8" text-anchor="start">●</text>
+<text x="95" y="665" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#6c4ce8" text-anchor="start">PROFESSIONAL SNAPSHOT</text>
+<text x="55" y="710" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400" fill="#111a4e" text-anchor="start">🔭</text>
+<text x="95" y="710" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#111a4e" text-anchor="start">Currently working on: Security Automation, Vulnerability Management</text>
+<text x="95" y="736" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500" fill="#111a4e" text-anchor="start">workflows, Application Testing, and web applications.</text>
+<text x="55" y="778" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400" fill="#111a4e" text-anchor="start">🌱</text>
+<text x="95" y="778" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#111a4e" text-anchor="start">Currently learning: Penetration Testing, Cloud Security, Application</text>
+<text x="95" y="804" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500" fill="#111a4e" text-anchor="start">Security, DevSecOps, Docker, Kubernetes, and Threat Intelligence.</text>
+<text x="55" y="846" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400" fill="#111a4e" text-anchor="start">🔒</text>
+<text x="95" y="846" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#111a4e" text-anchor="start">Security focus: Cybersecurity, ethical hacking, Penetration Testing,</text>
+<text x="95" y="872" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500" fill="#111a4e" text-anchor="start">Application Testing, Cloud Security, Vulnerability Management, Nessus / Qualys, and Threat Intelligence.</text>
+<text x="55" y="914" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400" fill="#111a4e" text-anchor="start">💻</text>
+<text x="95" y="914" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#111a4e" text-anchor="start">Development focus: Python, React.js, MERN stack, Angular, Node.js,</text>
+<text x="95" y="940" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500" fill="#111a4e" text-anchor="start">MongoDB, UI/UX, APIs, and full-stack web applications.</text>
+<text x="55" y="982" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400" fill="#111a4e" text-anchor="start">⚙️</text>
+<text x="95" y="982" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#111a4e" text-anchor="start">Automation mindset: I love building scripts, dashboards, reports, and</text>
+<text x="95" y="1008" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500" fill="#111a4e" text-anchor="start">workflows that reduce manual security and operations effort.</text>
+<text x="55" y="1050" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400" fill="#111a4e" text-anchor="start">💬</text>
+<text x="95" y="1050" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#111a4e" text-anchor="start">Ask me about: Cybersecurity, Penetration Testing, Vulnerability</text>
+<text x="95" y="1076" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500" fill="#111a4e" text-anchor="start">Management, Python Automation, Docker, K8s, MERN, React.js, and Web Development.</text>
+<text x="55" y="1118" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400" fill="#111a4e" text-anchor="start">📫</text>
+<text x="95" y="1118" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#111a4e" text-anchor="start">Reach me at: anandkhushi0911@gmail.com</text>
+<text x="55" y="1160" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400" fill="#111a4e" text-anchor="start">⚡</text>
+<text x="95" y="1160" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#111a4e" text-anchor="start">Fun fact: I think I&#x27;m funny, cute, pretty, beautiful, smart — and</text>
+<text x="95" y="1186" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500" fill="#111a4e" text-anchor="start">now also security-minded 😼</text>
+<rect x="695" y="614" width="487" height="356" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="735" y="665" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#6c4ce8" text-anchor="start">🛠</text>
+<text x="775" y="665" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#6c4ce8" text-anchor="start">SECURITY ARSENAL</text>
+<text x="735" y="720" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">◎</text>
+<text x="780" y="720" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Nessus</text>
+<text x="955" y="720" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">🛡</text>
+<text x="1000" y="720" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">OWASP ZAP</text>
+<text x="735" y="764" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">📍</text>
+<text x="780" y="764" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Qualys</text>
+<text x="955" y="764" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">👁</text>
+<text x="1000" y="764" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Nmap</text>
+<text x="735" y="808" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">⚡</text>
+<text x="780" y="808" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Burp Suite</text>
+<text x="955" y="808" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">▥</text>
+<text x="1000" y="808" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Dirbuster</text>
+<text x="735" y="852" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">🌊</text>
+<text x="780" y="852" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Wireshark</text>
+<text x="955" y="852" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">♟</text>
+<text x="1000" y="852" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">John The Ripper</text>
+<text x="735" y="896" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">Ⓜ</text>
+<text x="780" y="896" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Metasploit</text>
+<text x="955" y="896" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">♜</text>
+<text x="1000" y="896" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Hydra</text>
+<text x="735" y="940" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">◉</text>
+<text x="780" y="940" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">OpenCTI</text>
+<text x="955" y="940" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#111a4e" text-anchor="start">∑</text>
+<text x="1000" y="940" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Sigma</text>
+<rect x="695" y="988" width="487" height="261" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="735" y="1038" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#6c4ce8" text-anchor="start">▣</text>
+<text x="775" y="1038" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#6c4ce8" text-anchor="start">THIS MONTH</text>
+<text x="735" y="1088" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="900" fill="#6c4ce8" text-anchor="start">●</text>
+<text x="765" y="1088" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Learning Kubernetes Security</text>
+<text x="735" y="1124" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="900" fill="#6c4ce8" text-anchor="start">●</text>
+<text x="765" y="1124" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Building Python Automation Scripts</text>
+<text x="735" y="1160" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="900" fill="#6c4ce8" text-anchor="start">●</text>
+<text x="765" y="1160" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Studying OpenCTI &amp; Threat Intelligence</text>
+<text x="735" y="1196" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="900" fill="#6c4ce8" text-anchor="start">●</text>
+<text x="765" y="1196" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Practicing Web Application Security</text>
+<text x="735" y="1232" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="900" fill="#6c4ce8" text-anchor="start">●</text>
+<text x="765" y="1232" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#111a4e" text-anchor="start">Improving Angular Development Skills</text>
+<rect x="18" y="1265" width="1164" height="310" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="55" y="1315" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#6c4ce8" text-anchor="start">◎</text>
+<text x="95" y="1315" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#6c4ce8" text-anchor="start">CORE INTERESTS</text>
+<rect x="55" y="1350" width="132" height="104" rx="12" fill="#ffffff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="121" y="1392" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#6c4ce8" text-anchor="middle">🛡</text>
+<text x="121" y="1428" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Cybersecurity</text>
+<rect x="206" y="1350" width="132" height="104" rx="12" fill="#ffffff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="272" y="1392" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#6c4ce8" text-anchor="middle">⚔</text>
+<text x="272" y="1420" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Penetration</text>
+<text x="272" y="1438" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Testing</text>
+<rect x="357" y="1350" width="132" height="104" rx="12" fill="#ffffff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="423" y="1392" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#6c4ce8" text-anchor="middle">☁</text>
+<text x="423" y="1420" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Cloud</text>
+<text x="423" y="1438" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Security</text>
+<rect x="508" y="1350" width="132" height="104" rx="12" fill="#ffffff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="574" y="1392" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#6c4ce8" text-anchor="middle">🐞</text>
+<text x="574" y="1420" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Application</text>
+<text x="574" y="1438" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Testing</text>
+<rect x="659" y="1350" width="132" height="104" rx="12" fill="#ffffff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="725" y="1392" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#6c4ce8" text-anchor="middle">♙</text>
+<text x="725" y="1420" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Vulnerability</text>
+<text x="725" y="1438" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Management</text>
+<rect x="810" y="1350" width="132" height="104" rx="12" fill="#ffffff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="876" y="1392" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#6c4ce8" text-anchor="middle">♟</text>
+<text x="876" y="1420" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Automation</text>
+<text x="876" y="1438" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Enthusiast</text>
+<rect x="961" y="1350" width="132" height="104" rx="12" fill="#ffffff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="1027" y="1392" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#6c4ce8" text-anchor="middle">🐳</text>
+<text x="1027" y="1428" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Docker</text>
+<rect x="1112" y="1350" width="132" height="104" rx="12" fill="#ffffff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="1178" y="1392" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#6c4ce8" text-anchor="middle">☸</text>
+<text x="1178" y="1428" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Kubernetes</text>
+<rect x="55" y="1470" width="132" height="104" rx="12" fill="#ffffff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="121" y="1512" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#6c4ce8" text-anchor="middle">🐍</text>
+<text x="121" y="1548" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Python</text>
+<rect x="206" y="1470" width="132" height="104" rx="12" fill="#ffffff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="272" y="1512" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#6c4ce8" text-anchor="middle">🌐</text>
+<text x="272" y="1548" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Web Developer</text>
+<rect x="357" y="1470" width="132" height="104" rx="12" fill="#ffffff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="423" y="1512" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#6c4ce8" text-anchor="middle">🍃</text>
+<text x="423" y="1548" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">MERN Stack</text>
+<rect x="508" y="1470" width="132" height="104" rx="12" fill="#ffffff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="574" y="1512" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#6c4ce8" text-anchor="middle">⚛</text>
+<text x="574" y="1540" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">React.js</text>
+<text x="574" y="1558" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="middle">Enthusiast</text>
+<rect x="18" y="1592" width="1164" height="310" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="55" y="1642" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#6c4ce8" text-anchor="start">▱</text>
+<text x="95" y="1642" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#6c4ce8" text-anchor="start">TECH STACK</text>
+<rect x="38" y="1673" width="145" height="40" rx="8" fill="#eee9ff" stroke="#ded8fb" stroke-width="0.8"/>
+<text x="55" y="1698" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#6c4ce8" text-anchor="start">Frontend</text>
+<text x="240" y="1703" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">⚛</text>
+<text x="278" y="1699" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">React</text>
+<text x="390" y="1703" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🅰</text>
+<text x="428" y="1699" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">Angular</text>
+<text x="540" y="1703" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🧡</text>
+<text x="578" y="1699" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">HTML5</text>
+<text x="690" y="1703" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🔷</text>
+<text x="728" y="1699" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">CSS3</text>
+<text x="840" y="1703" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🟨</text>
+<text x="878" y="1699" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">JavaScript</text>
+<text x="990" y="1703" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">〰</text>
+<text x="1028" y="1699" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">Tailwind CSS</text>
+<line x1="200" y1="1725" x2="1160" y2="1725" stroke="#e7e2fb" stroke-dasharray="4 6"/>
+<rect x="38" y="1733" width="145" height="40" rx="8" fill="#eee9ff" stroke="#ded8fb" stroke-width="0.8"/>
+<text x="55" y="1758" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#6c4ce8" text-anchor="start">Backend</text>
+<text x="240" y="1763" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">⬢</text>
+<text x="278" y="1759" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">Node.js</text>
+<text x="390" y="1763" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">ex</text>
+<text x="428" y="1759" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">Express.js</text>
+<text x="540" y="1763" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🍃</text>
+<text x="578" y="1759" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">MongoDB</text>
+<text x="690" y="1763" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🐬</text>
+<text x="728" y="1759" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">MySQL</text>
+<text x="840" y="1763" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🐍</text>
+<text x="878" y="1759" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">Python</text>
+<line x1="200" y1="1785" x2="1160" y2="1785" stroke="#e7e2fb" stroke-dasharray="4 6"/>
+<rect x="38" y="1793" width="145" height="40" rx="8" fill="#eee9ff" stroke="#ded8fb" stroke-width="0.8"/>
+<text x="55" y="1818" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#6c4ce8" text-anchor="start">Tools &amp; DevOps</text>
+<text x="240" y="1823" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🐳</text>
+<text x="278" y="1819" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">Docker</text>
+<text x="390" y="1823" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">☸</text>
+<text x="428" y="1819" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">Kubernetes</text>
+<text x="540" y="1823" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🔶</text>
+<text x="578" y="1819" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">Git</text>
+<text x="690" y="1823" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🐙</text>
+<text x="728" y="1819" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">GitHub</text>
+<text x="840" y="1823" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">aws</text>
+<text x="878" y="1819" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">AWS</text>
+<text x="990" y="1823" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🐧</text>
+<text x="1028" y="1819" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">Linux</text>
+<line x1="200" y1="1845" x2="1160" y2="1845" stroke="#e7e2fb" stroke-dasharray="4 6"/>
+<rect x="38" y="1853" width="145" height="40" rx="8" fill="#eee9ff" stroke="#ded8fb" stroke-width="0.8"/>
+<text x="55" y="1878" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#6c4ce8" text-anchor="start">Languages</text>
+<text x="240" y="1883" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">©</text>
+<text x="278" y="1879" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">C</text>
+<text x="390" y="1883" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">C++</text>
+<text x="428" y="1879" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">C++</text>
+<text x="540" y="1883" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🟨</text>
+<text x="578" y="1879" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">JavaScript</text>
+<text x="690" y="1883" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">TS</text>
+<text x="728" y="1879" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">TypeScript</text>
+<text x="840" y="1883" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#111a4e" text-anchor="start">🐍</text>
+<text x="878" y="1879" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#111a4e" text-anchor="start">Python</text>
+<line x1="200" y1="1905" x2="1160" y2="1905" stroke="#e7e2fb" stroke-dasharray="4 6"/>
+<rect x="18" y="1918" width="540" height="190" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="55" y="1965" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#6c4ce8" text-anchor="start">⚙</text>
+<text x="95" y="1965" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#6c4ce8" text-anchor="start">WHAT I DO</text>
+<text x="58" y="2015" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#111a4e" text-anchor="start">🛡</text>
+<text x="100" y="2015" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#111a4e" text-anchor="start">Cyber Security &amp; AppSec</text>
+<text x="58" y="2053" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#111a4e" text-anchor="start">🐞</text>
+<text x="100" y="2053" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#111a4e" text-anchor="start">Vulnerability Management</text>
+<text x="58" y="2091" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#111a4e" text-anchor="start">&lt;/&gt;</text>
+<text x="100" y="2091" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#111a4e" text-anchor="start">Security Automation (Python)</text>
+<text x="313" y="2015" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#111a4e" text-anchor="start">☁</text>
+<text x="355" y="2015" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#111a4e" text-anchor="start">Cloud Security (AWS)</text>
+<text x="313" y="2053" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#111a4e" text-anchor="start">∞</text>
+<text x="355" y="2053" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#111a4e" text-anchor="start">DevSecOps &amp; CI/CD</text>
+<text x="313" y="2091" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#111a4e" text-anchor="start">👁</text>
+<text x="355" y="2091" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#111a4e" text-anchor="start">Threat Intelligence (OpenCTI)</text>
+<rect x="575" y="1918" width="607" height="190" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="612" y="1965" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#6c4ce8" text-anchor="start">♙</text>
+<text x="652" y="1965" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#6c4ce8" text-anchor="start">LEARNING ROADMAP</text>
+<text x="620" y="2020" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#6c4ce8" text-anchor="middle">🌐</text>
+<text x="620" y="2052" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#111a4e" text-anchor="middle">Web Security</text>
+<text x="667" y="2022" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#6c4ce8" text-anchor="middle">→</text>
+<text x="713" y="2020" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#6c4ce8" text-anchor="middle">🛡</text>
+<text x="713" y="2052" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#111a4e" text-anchor="middle">Application</text>
+<text x="713" y="2070" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#111a4e" text-anchor="middle">Security</text>
+<text x="760" y="2022" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#6c4ce8" text-anchor="middle">→</text>
+<text x="806" y="2020" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#6c4ce8" text-anchor="middle">☁</text>
+<text x="806" y="2052" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#111a4e" text-anchor="middle">Cloud</text>
+<text x="806" y="2070" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#111a4e" text-anchor="middle">Security</text>
+<text x="853" y="2022" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#6c4ce8" text-anchor="middle">→</text>
+<text x="899" y="2020" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#6c4ce8" text-anchor="middle">∞</text>
+<text x="899" y="2052" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#111a4e" text-anchor="middle">DevSecOps</text>
+<text x="946" y="2022" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#6c4ce8" text-anchor="middle">→</text>
+<text x="992" y="2020" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#6c4ce8" text-anchor="middle">🧠</text>
+<text x="992" y="2052" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#111a4e" text-anchor="middle">Threat</text>
+<text x="992" y="2070" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#111a4e" text-anchor="middle">Intelligence</text>
+<text x="1039" y="2022" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#6c4ce8" text-anchor="middle">→</text>
+<text x="1085" y="2020" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#6c4ce8" text-anchor="middle">🏙</text>
+<text x="1085" y="2052" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#111a4e" text-anchor="middle">Security</text>
+<text x="1085" y="2070" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#111a4e" text-anchor="middle">Architecture</text>
+<rect x="18" y="2125" width="1164" height="185" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="55" y="2172" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#6c4ce8" text-anchor="start">✈</text>
+<text x="95" y="2172" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#6c4ce8" text-anchor="start">FEATURED PROJECTS</text>
+<rect x="55" y="2188" width="205" height="90" rx="10" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="70" y="2220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="800" fill="#6c4ce8" text-anchor="start">▸</text>
+<text x="107" y="2215" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="start">Vulnerability Automation</text>
+<text x="107" y="2237" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#42507a" text-anchor="start">Automating Nessus &amp; VMS</text>
+<text x="107" y="2255" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#42507a" text-anchor="start">workflows using Python</text>
+<text x="107" y="2274" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" fill="#6c4ce8" text-anchor="start">Python</text>
+<rect x="285" y="2188" width="205" height="90" rx="10" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="300" y="2220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="800" fill="#6c4ce8" text-anchor="start">▥</text>
+<text x="337" y="2215" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="start">Security Dashboard</text>
+<text x="337" y="2237" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#42507a" text-anchor="start">Centralized vulnerability</text>
+<text x="337" y="2255" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#42507a" text-anchor="start">tracking &amp; reporting</text>
+<text x="337" y="2274" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" fill="#6c4ce8" text-anchor="start">Python, Pandas, Streamlit</text>
+<rect x="515" y="2188" width="205" height="90" rx="10" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="530" y="2220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="800" fill="#6c4ce8" text-anchor="start">🅰</text>
+<text x="567" y="2215" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="start">Angular Web Apps</text>
+<text x="567" y="2237" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#42507a" text-anchor="start">Responsive frontend</text>
+<text x="567" y="2255" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#42507a" text-anchor="start">applications</text>
+<text x="567" y="2274" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" fill="#6c4ce8" text-anchor="start">Angular, TypeScript</text>
+<rect x="745" y="2188" width="205" height="90" rx="10" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="760" y="2220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="800" fill="#6c4ce8" text-anchor="start">⬢</text>
+<text x="797" y="2215" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="start">OpenCTI Research</text>
+<text x="797" y="2237" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#42507a" text-anchor="start">Threat intelligence research</text>
+<text x="797" y="2255" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#42507a" text-anchor="start">&amp; CTI integrations</text>
+<text x="797" y="2274" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" fill="#6c4ce8" text-anchor="start">OpenCTI, Python</text>
+<rect x="975" y="2188" width="205" height="90" rx="10" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="990" y="2220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="800" fill="#6c4ce8" text-anchor="start">▲</text>
+<text x="1027" y="2215" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#111a4e" text-anchor="start">Portfolio Website</text>
+<text x="1027" y="2237" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#42507a" text-anchor="start">Personal portfolio built</text>
+<text x="1027" y="2255" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#42507a" text-anchor="start">with modern stack</text>
+<text x="1027" y="2274" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" fill="#6c4ce8" text-anchor="start">React, Node.js</text>
+<rect x="18" y="2328" width="390" height="180" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="55" y="2375" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#6c4ce8" text-anchor="start">▥</text>
+<text x="95" y="2375" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#6c4ce8" text-anchor="start">GITHUB STREAK</text>
+<text x="78" y="2444" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="40" font-weight="900" fill="#111a4e" text-anchor="start">71</text>
+<text x="75" y="2475" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#111a4e" text-anchor="start">Days streak</text>
+<text x="185" y="2448" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="400" fill="#111a4e" text-anchor="start">🔥</text>
+<polyline points="235,2465 270,2448 305,2418 340,2432 380,2418" fill="none" stroke="#6c4ce8" stroke-width="4"/><polygon points="235,2465 270,2448 305,2418 340,2432 380,2418 380,2480 235,2480" fill="#6c4ce8" opacity=".12"/>
+<rect x="425" y="2328" width="355" height="180" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="462" y="2375" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#6c4ce8" text-anchor="start">🏆</text>
+<text x="502" y="2375" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#6c4ce8" text-anchor="start">CERTIFICATIONS</text>
+<text x="465" y="2415" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#6c4ce8" text-anchor="start">●</text>
+<text x="490" y="2415" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#111a4e" text-anchor="start">AWS Cloud Practitioner</text>
+<text x="465" y="2440" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#6c4ce8" text-anchor="start">●</text>
+<text x="490" y="2440" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#111a4e" text-anchor="start">IBM Cybersecurity Fundamentals</text>
+<text x="465" y="2465" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#6c4ce8" text-anchor="start">●</text>
+<text x="490" y="2465" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#111a4e" text-anchor="start">Palo Alto Networks Cybersecurity</text>
+<text x="465" y="2490" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#6c4ce8" text-anchor="start">●</text>
+<text x="490" y="2490" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#111a4e" text-anchor="start">Honeywell Cybersecurity</text>
+<text x="465" y="2515" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#6c4ce8" text-anchor="start">●</text>
+<text x="490" y="2515" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#111a4e" text-anchor="start">Coursera Multiple Certifications</text>
+<rect x="798" y="2328" width="384" height="180" rx="16" fill="#fff" stroke="#ded8fb" stroke-width="1.2"/>
+<text x="835" y="2375" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#6c4ce8" text-anchor="start">💜</text>
+<text x="875" y="2375" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#6c4ce8" text-anchor="start">LET&#x27;S CONNECT</text>
+<text x="835" y="2420" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#111a4e" text-anchor="start">Open to exciting opportunities and collaborations.</text>
+<text x="835" y="2448" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#111a4e" text-anchor="start">Feel free to reach out! 💜</text>
+<text x="875" y="2490" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="900" fill="#6c4ce8" text-anchor="middle">in</text>
+<text x="930" y="2490" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="900" fill="#6c4ce8" text-anchor="middle">✉</text>
+<text x="985" y="2490" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="900" fill="#6c4ce8" text-anchor="middle">📸</text>
+<text x="1040" y="2490" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="900" fill="#6c4ce8" text-anchor="middle">⌁</text>
+<text x="1095" y="2490" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="900" fill="#6c4ce8" text-anchor="middle">▲</text>
+<rect x="35" y="2528" width="1130" height="58" rx="28" fill="url(#g)" stroke="#34258c" stroke-width="1"/>
+<text x="600" y="2565" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="800" fill="white" text-anchor="middle">❝  Secure today, so tomorrow can innovate.  ❞</text>
+<text x="1138" y="2565" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400" fill="#111a4e" text-anchor="start">🔒</text>
+</svg>
