@@ -118,7 +118,7 @@ I'm **Khushi Anand**, a **Cybersecurity Associate, Hacker, Automation Enthusiast
       </ul>
     </td>
     <td width="60%">
-    <img align="right" src="ChatGPT Image Jun 9, 2026, 12_15_21 AMM.png" alt="Khushi Anand Banner" width="100%" /> 
+    <img align="right" src="Computer_image.png" alt="Khushi Anand Banner" width="100%" /> 
     </td>
   </tr>
 </table>
