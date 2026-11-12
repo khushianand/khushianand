@@ -36,7 +36,6 @@
 
 <img align="right" alt="coding" width="370" src="git_image.jpg">
 
-## 🚀 Professional Snapshot
 
 ## 🚀 Professional Snapshot
 
