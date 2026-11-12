@@ -38,14 +38,23 @@
 
 ## 🚀 Professional Snapshot
 
-- 🔭 **Currently working on:** Security Automation, Vulnerability Management workflows, Application Testing, and web applications.
-- 🌱 **Currently learning:** Penetration Testing, Cloud Security, Application Security, DevSecOps, Docker, Kubernetes, and Threat Intelligence.
-- 🔐 **Security focus:** Cybersecurity, ethical hacking, Penetration Testing, Application Testing, Cloud Security, Vulnerability Management, Nessus / Qualys, and Threat Intelligence.
-- 💻 **Development focus:** Python, React.js, MERN stack, Angular, Node.js, MongoDB, UI/UX, APIs, and full-stack web applications.
-- ⚙️ **Automation mindset:** I love building scripts, dashboards, reports, and workflows that reduce manual security and operations effort.
-- 💬 **Ask me about:** Cybersecurity, Penetration Testing, Vulnerability Management, Python Automation, Docker, K8s, MERN, React.js, and Web Development.
-- 📫 **Reach me at:** **anandkhushi0911@gmail.com**
-- ⚡ **Fun fact:** I think I'm funny, cute, pretty, beautiful, smart — and now also security-minded 😼
+## 🚀 Professional Snapshot
+
+- 🔭 **Currently working on:** Vulnerability Management, Security Assessment, Penetration Testing, and Python-based Security Automation, Cloud Security.
+- 🌱 **Currently learning:** Cloud Security (AWS), Application Security, DevSecOps, Container Security, Docker, Kubernetes, and Threat Intelligence.
+- 🔐 **Security interests:** Vulnerability Assessment, Penetration Testing, Web Application Security, Security Operations, Cloud Security, and Threat Intelligence.
+- 🛠️ **Security tools:** Qualys VMDR, Nessus, Burp Suite, Nmap, TryHackMe, Trivy, and Wazuh.
+- 💻 **Programming & Development:** Python, JavaScript, React.js, Node.js, Angular, MongoDB, REST APIs, and Full-Stack Development.
+- ⚙️ **Automation mindset:** Passionate about Building Python-based tools, dashboards, reporting solutions, and automated workflows to improve security assessment and operational efficiency.
+- 💬 **Ask me about:** Vulnerability Management, Security Assessment, Penetration Testing, Burp Suite, Python Automation, Linux, Docker, Kubernetes, and Web Development.
+- 📜 **Certifications:** eJPT | AWS Certified Cloud Practitioner | CompTIA Security+ (In Progress).
+- 📫 **Reach me at:** [anandkhushi0911@gmail.com](mailto:anandkhushi0911@gmail.com)
+- ⚡ **Fun fact:** Curious mind, security enthusiast, automation lover, and always exploring something new! 😼
+
+---
+
+### 🎯 Current Career Focus
+Building expertise in Security Engineering, Cloud Security, Application Security, and Security Automation, with a long-term goal of designing and securing modern cloud-native environments.
 
 <br clear="right"/>
 
