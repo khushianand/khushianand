@@ -91,9 +91,9 @@ I'm **Khushi Anand**, a **Cybersecurity Associate, Hacker, Automation Enthusiast
 
 🏆 I hold certifications and learning credentials from **Honeywell, Palo Alto Networks, IBM, Coursera, and AWS**.
 
-🎨 Beyond tech, I also love **digital illustrations, UI designing, fashion, creativity, and leadership**. As Fashion Head of the Pragmatic Fashion Society, I led design initiatives and participated in competitions, which strengthened my creative and collaborative mindset.
+🎨 Beyond tech, I also love **digital illustrations, UI designing, fashion, content-creation and devops**. As Fashion Head of the Pragmatic Fashion Society, I led design initiatives and participated in competitions, which strengthened my creative and collaborative mindset.
 
-🚀 My goal is to **bridge Development, Operations, and Security** by building systems that are not only functional and beautiful, but also secure, scalable, and reliable.
+🚀 My goal is to **Bridge Development, Operations, and Security** by building systems that are not only functional and beautiful, but also secure, scalable, and reliable.
 
 ---
 
